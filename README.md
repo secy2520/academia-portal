@@ -1,6 +1,6 @@
 # Academia Portal
 
-Welcome to the Academia Portal project! Developed by [Your Name], this user-friendly and multifunctional system is designed for efficient management of student and faculty information, along with course details, using C programming. Below, you'll find an overview of the key features and functionalities.
+Welcome to the Academia Portal project! Developed by me during my MTech, this user-friendly and multifunctional system is designed for efficient management of student and faculty information, along with course details, using C programming. Below, you'll find an overview of the key features and functionalities.
 
 ## Features
 
