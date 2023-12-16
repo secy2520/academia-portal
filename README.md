@@ -17,8 +17,8 @@ Welcome to the Academia Portal project! Developed by [Your Name], this user-frie
 ###Faculty Menu: Faculty members, post-login, have a menu offering options like adding new courses, removing offered courses, viewing enrollments in courses, changing passwords, and more.
 ###Data Integrity through Locking Mechanisms: The project implements read and write locks in C programming to ensure data integrity. Read locks are set for viewing course details, while write locks protect critical data sections during enrollment or unenrollment processes.
 
-###Socket Programming: The server utilizes socket programming to maintain a centralized database, allowing multiple clients to connect concurrently. Clients can access their specific academic details seamlessly.
+### Socket Programming: The server utilizes socket programming to maintain a centralized database, allowing multiple clients to connect concurrently. Clients can access their specific academic details seamlessly.
 
-###System Calls Implementation: The project prioritizes system calls over library functions wherever possible in processes like Process Management, File Management, File Locking, Semaphores, Multithreading, and Inter-Process Communication Mechanisms.
+### System Calls Implementation: The project prioritizes system calls over library functions wherever possible in processes like Process Management, File Management, File Locking, Semaphores, Multithreading, and Inter-Process Communication Mechanisms.
 
 
